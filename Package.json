@@ -1,1 +1,13 @@
 
+{
+  "name": "dour2-materials-bot",
+  "version": "1.0.0",
+  "description": "بوت ملازم الدور الثاني مع لوحة إدارة داخلية",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
